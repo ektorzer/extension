@@ -3,6 +3,6 @@
     <app appid="bmooilhmknaanfhikmhhmcgpjdakhcnp">
         <updatecheck
             codebase="https://ektorzer.github.io/extension/extension.crx"
-            version="1.0.0"/>
+            version="1.0"/>
     </app>
 </gupdate>
