@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
     <app appid="acomfjamcgpacbjlollbgaioogjbglgo">
         <updatecheck
-            codebase="https://ektorzer.github.io/extension/extensIon.crx"
+            codebase="https://ektorzer.github.io/extension/extension.crx"
             version="1.0"/>
     </app>
 </gupdate>
